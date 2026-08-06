@@ -1,0 +1,2 @@
+# amanojaku
+personal website
