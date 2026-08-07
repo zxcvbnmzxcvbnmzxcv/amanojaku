@@ -1,5 +1,4 @@
 .button{
-    position:absolute;
     color:rgb(11, 11, 11);
     font-size:25px;
     background-color: #fefefd;
@@ -27,4 +26,15 @@ h1{
 }
 b{
     font-size:30px;
+}
+
+nav {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+.top-link {
+  display: block;
+  margin-left: auto;
+  width: fit-content;
 }
